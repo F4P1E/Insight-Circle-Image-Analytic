@@ -16,6 +16,8 @@
    ```bash
    pip install streamlit google-generativeai
 2. **Setup API Key**:
+     ```bash
    api_key = 'your_api_key_here'
-3. **Run the Application**:
+4. **Run the Application**:
+     ```bash
    streamlit run app.py
