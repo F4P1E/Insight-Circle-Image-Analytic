@@ -15,3 +15,7 @@
    Ensure you have Streamlit and the required packages installed. You can install them using:
    ```bash
    pip install streamlit google-generativeai
+2. **Setup API Key**:
+   api_key = 'your_api_key_here'
+3. **Run the Application**:
+   streamlit run app.py
