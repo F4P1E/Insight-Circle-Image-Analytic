@@ -87,10 +87,6 @@ model = genai.GenerativeModel(model_name="gemini-1.5-pro-latest",
 
 st.set_page_config(page_title="Insight Circle Analytics", page_icon=":robot:")
 
- #set web logo
-
-st.image("", width=150)
-
 #set web title
 
 st.title("Insight Circle Community.png", width=150)
